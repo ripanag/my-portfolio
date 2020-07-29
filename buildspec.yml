@@ -9,8 +9,8 @@ phases:
       nodejs: 12
 artifacts:
   files:
-    - index.html
-    - favicon.ico
-    - RomanResume.pdf
-    - styles/main.css
-    - images/*
+    - /index.html
+    - /favicon.ico
+    - /RomanResume.pdf
+    - /styles/main.css
+    - /images/*
